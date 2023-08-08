@@ -12,7 +12,3 @@ Este é um programa em C desenvolvido para atender às necessidades de um atende
 4. Cadastrar um passageiro na lista de determinado voo
 5. Excluir um passageiro da lista de um determinado voo
 6. Mostrar a fila de espera dos passageiros de um determinado voo
-
-## Participantes
->- Ana Júlia Teixeira
->- Marcella Costa
