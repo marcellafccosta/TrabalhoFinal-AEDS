@@ -1,0 +1,46 @@
+CPF: 110.820.359-04
+Nome: Rebeca Chaves
+Endereço: Rua Maria F. de Oliveira 1166, Goiânia - GO
+Telefone: (62) 9959-8771
+Número da Passagem: 26
+Número da Poltrona: 3A
+Voo: BH-SP
+Horário: 07:30
+
+CPF: 349.520.906-98
+Nome: José Martins
+Endereço: Vila Dulce 1984, Fortaleza - CE
+Telefone: (85) 9315-3278
+Número da Passagem: 27
+Número da Poltrona: 3B
+Voo: BH-SP
+Horário: 07:30
+
+CPF: 434.110.303-21
+Nome: Marina Castro
+Endereço: Rua Antônio Paulo de Almeida Prado 1960, São Paulo - SP
+Telefone: (11) 3261-3956
+Número da Passagem: 28
+Número da Poltrona: 3C
+Voo: BH-SP
+Horário: 07:30
+
+CPF: 663.910.638-85
+Nome: Tomás Santos
+Endereço: Avenida Décima Sétima 755, Macapá - AP
+Telefone: (96) 2111-8720
+Número da Passagem: 29
+Número da Poltrona: 3D
+Voo: BH-SP
+Horário: 07:30
+
+CPF: 321.290.363-50
+Nome: Nicolas Carvalho
+Endereço: Rua Seis 349, Uberaba - MG
+Telefone: (34) 4257-7727
+Número da Passagem: 30
+Número da Poltrona: 3E
+Voo: BH-SP
+Horário: 07:30
+
+
